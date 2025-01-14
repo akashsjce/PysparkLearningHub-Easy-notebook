@@ -16,7 +16,10 @@ Problems are categorized by difficulty, starting with easy-level tasks to help y
 📊 Sample Datasets Included
 Each notebook comes with sample datasets or links to datasets, so you can focus on solving the problem without worrying about data preparation.
 
-How to Use This Repository
+**How to Use This Repository
+
+===================================**
+
 Step 1: Clone the Repository
 Clone this repository to your local system using:
 
