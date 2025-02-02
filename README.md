@@ -1,7 +1,7 @@
 # PysparkLearningHub-Easy-notebook
 
 Welcome to PySparkLearningHub-Easy-Notebook 🚀
-This repository is part of the PySpark Learning Hub initiative, aimed at helping aspiring and experienced data engineers, data scientists, and PySpark enthusiasts sharpen their problem-solving skills. Each notebook focuses on a specific PySpark problem and provides a hands-on learning experience.
+This repository is part of the PySpark Learning Hub initiative, aimed at helping aspiring and experienced data engineers, data scientists, and PySpark enthusiasts sharpen their problem-solving skills. Each notebook focuses on a specific PySpark problem and provides a hands-on learning experience
 
 Repository Highlights
 📘 Databricks-Compatible Notebooks
